@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Muhammad Hamayun Farasat</h1>
 
 <h3 align="center">AI Engineer | Machine Learning Engineer | NLP & Deep Learning Specialist</h3>
